@@ -1,0 +1,7 @@
+{
+    "name": "tdd/start",
+    "require": {
+        "phpunit/phpunit": "4.8.9",
+        "monolog/monolog": "*"
+    }
+}
